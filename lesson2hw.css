@@ -1,0 +1,92 @@
+* {
+   
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+h2{
+    font-size: 16px;
+    margin-top: 30px;
+}
+
+
+body{
+    text-align: center;
+}
+
+@font-face {
+    font-family: "Raleway-Regular";
+    src: url(./assets/fonts/Raleway-Regular.ttf);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Open-Sans";
+    src: url(./assets/fonts/OpenSans-Regular.ttf);
+    
+}
+
+.why-awesome {
+    font-family: "Open-Sans";
+    margin-top: -30px;
+}
+
+.awesome {
+    margin-top: 100px;
+    
+}
+
+.awesome-content-title{
+    margin-bottom: 25px;
+    font-size: 36px;
+    font-family: "Raleway-Regular";
+}
+
+.awesome-content-text{
+    color: #86878B;
+    font-size: 14px;
+   
+    
+}
+
+.why-awesome-block{
+    display: inline-block;
+    width: 350px;
+    padding: 0px 5px;
+    margin-top: 67px;
+}
+
+.plank {
+    border: 1px solid #E72424;
+    width: 64px;
+    margin: 0px auto 30px;
+}
+
+
+.why-awesome-block-wrapper {
+    border: 1px solid #E72424;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin:0 auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 30px;
+}
+
+.lampa {
+    background-image: url("./assets/icon/lampa.svg");
+}
+
+.keyboard {
+    background-image: url("./assets/icon/keyboard.svg");
+}
+
+.light {
+    background-image: url("./assets/icon/light.svg");
+}
+
+
+
+
+
